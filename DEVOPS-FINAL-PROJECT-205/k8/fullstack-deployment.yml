@@ -110,7 +110,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: joshetha/2300031264-lab-exam-frontend:latest  # <-- change this
+          image: joshetha/2300031264-lab-exam-frontend:latest  # <-- change thisi ui
           ports:
             - containerPort: 80
 ---
